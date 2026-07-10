@@ -54,21 +54,19 @@ MediSense is an AI-powered healthcare platform that helps users perform early di
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python"/> python 
+<img src="https://skillicons.dev/icons?i=python"/> PYTHON 
 
-<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=java"/> JAVA 
+ 
+<img src="https://skillicons.dev/icons?i=cpp"/> C++
 
-<img src="https://skillicons.dev/icons?i=c"/>
+<img src="https://skillicons.dev/icons?i=html"/> HTML
 
-<img src="https://skillicons.dev/icons?i=cpp"/>
+<img src="https://skillicons.dev/icons?i=css"/> CSS
 
-<img src="https://skillicons.dev/icons?i=html"/>
+<img src="https://skillicons.dev/icons?i=javascript"/> JAVASCRIPT
 
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=mysql"/> MYSQL
 
 </p>
 
@@ -76,13 +74,13 @@ MediSense is an AI-powered healthcare platform that helps users perform early di
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=flask"/>
+<img src="https://skillicons.dev/icons?i=flask"/> FLASK
 
-<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=git"/> GIT
 
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github"/> GITHUB
 
-<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=vscode"/> VS CODE
 
 </p>
 
@@ -141,6 +139,8 @@ MediSense is an AI-powered healthcare platform that helps users perform early di
 ✅ Secure a Software Development Internship
 
 ---
+# "Building intelligent solutions that solve real-world problems."
+
 
 # 📫 Connect With Me
 
