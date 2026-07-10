@@ -139,7 +139,9 @@ MediSense is an AI-powered healthcare platform that helps users perform early di
 ✅ Secure a Software Development Internship
 
 ---
-# "Building intelligent solutions that solve real-world problems."
+
+# Building intelligent solutions that solve real-world problems.
+
 
 
 # 📫 Connect With Me
