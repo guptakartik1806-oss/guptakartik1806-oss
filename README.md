@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Kartik Gupta
 
-### AI & ML Engineer | Full Stack Developer | Python Enthusiast
+### AI & ML Engineer | Full-Stack Developer | Open Source Contributor
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Python+Developer;Always+Learning+New+Technologies" />
 
@@ -18,7 +18,7 @@
 
 💻 Passionate Full Stack Developer
 
-🤖 Interested in Artificial Intelligence & Data Science
+🤖 Interested in Artificial Intelligence & Machine Learning
 
 🌱 Currently learning Advanced Machine Learning & Cloud
 
@@ -54,7 +54,7 @@ MediSense is an AI-powered healthcare platform that helps users perform early di
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=python"/> python 
 
 <img src="https://skillicons.dev/icons?i=java"/>
 
